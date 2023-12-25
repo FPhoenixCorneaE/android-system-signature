@@ -1,4 +1,5 @@
-# Android 系统签名
+# android-system-signature
+## Android 系统签名
 
 ### 1. 系统应用(使用 AOSP 系统签名或厂商自定义 keystore 进行签名)开发场景
 
@@ -83,4 +84,4 @@ buildTypes {
     }
 }
 ```
-# android-system-signature
+
